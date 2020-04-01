@@ -1,0 +1,17 @@
+## ODev
+## Prepare a shell script to do the following;
+
+## 1. Will look for a file in linux and echo if file is missing
+
+if test -f "varmiyokmu.txt"; then
+    open varmiyokmu.txt
+    else 
+ echo "varmiyokmu.txt does not exist"
+fi
+
+
+## If file is there will pick the properties (env=development)
+
+## Will use options for executing  
+
+
