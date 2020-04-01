@@ -3,15 +3,17 @@
 
 ## 1. Will look for a file in linux and echo if file is missing
 
+## 2. If file is there will pick the properties (env=development)
+
+## 3. Will use options for executing  
+
+
+
+
 if test -f "varmiyokmu.txt"; then
     open varmiyokmu.txt
     else 
  echo "varmiyokmu.txt does not exist"
 fi
-
-
-## If file is there will pick the properties (env=development)
-
-## Will use options for executing  
 
 
