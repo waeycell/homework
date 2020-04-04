@@ -17,3 +17,8 @@ if test -f "varmiyokmu.txt"; then
 fi
 
 
+
+#Some tasks:
+#if number of files .py more than 1 echo to exist code shoudl be 0 other wise 1
+# change the behavior of code depending on the arguments passed into the shell script
+# save it as .sh and how do you run it on windows?
